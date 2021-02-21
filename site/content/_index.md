@@ -1,7 +1,7 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Get rid of the stress and automate your Marketing"
+subtitle: We’ve Got the all-in-one Email Marketing Automation Solution For Your Business
+image: /img/Email-Marketing-Automation.png
 blurb:
     heading: Why Kaldi?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
